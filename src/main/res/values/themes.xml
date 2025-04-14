@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Base application theme -->
+    <style name="Theme.ToDoList" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your base theme here (colors, typography, etc.) -->
+    </style>
+
+    <!-- Splash screen theme -->
+    <style name="Theme.ToDoList.Splash" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Set the window background to your desired splash color.
+             In this example, we use the launcher_background color defined in colors.xml.
+             (Ensure that @color/launcher_background is defined in your colors.xml.) -->
+        <item name="android:windowBackground">@color/launcher_background</item>
+    </style>
+
+</resources>
